@@ -1,0 +1,23 @@
+{
+  "name": "aurora-grave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalph1998/Camping-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalph1998/Camping-site/issues"
+  },
+  "homepage": "https://github.com/kalph1998/Camping-site#readme",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
